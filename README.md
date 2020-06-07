@@ -7,3 +7,5 @@ Creating a local directory and pushing it to GitHub
 Sample text for branch
 
 Testing branching again
+
+TEST TEST TEST
